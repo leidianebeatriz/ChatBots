@@ -1,5 +1,3 @@
-#from chatterbot.corpus import Corpus
-#from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot 
 from chatterbot.comparisons import levenshtein_distance
 from chatterbot.response_selection import get_first_response 
